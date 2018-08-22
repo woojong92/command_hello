@@ -1,5 +1,6 @@
 //For command lin git tutorial
-//Local repository modification
+//First: Github modification
+//Sencond: Local repository modification
 
 print("hello world")
 print("What Your World")
